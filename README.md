@@ -4,6 +4,7 @@ By day, I lead **Splunk SIEM implementation and SOC enhancement** initiatives—
 
 By night, I’m a **Master’s student focused on Offensive Security**, building hands-on skills through **ethical, authorized labs** and **packet analysis with Wireshark**.
 
+**what's my why?** Merge my passion for technology and values to secure.
 ---
 
 <h2> 🤳 Connect with me:</h2>
