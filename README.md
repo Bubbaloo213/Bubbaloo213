@@ -1,16 +1,102 @@
-## Hi there 👋
+<h1>Hi, I'm Eliana! <br/><a href="https://github.com/Bubbaloo213">Full-Time Cyber Defense Project Manager / Part-Time Cyber Offense Learner</a> <a href="https://www.linkedin.com/in/elianaalvarez11/"</a></h1>
 
-<!--
-**Bubbaloo213/Bubbaloo213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 🤳 Connect with me:</h2>
 
-Here are some ideas to get you started:
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/elianaalvarez11/
+
+<br />
+<h2> :page_facing_up: Certifications</h2>
+
+- [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
+- [Splunk Enterprise Certified Admin](https://www.credly.com/badges/d1f95103-bf78-4b44-a7f0-479fca2acfa4/public_url)
+- [Splunk Accredited Technical Selling Foundations (Partner)](https://www.credly.com/earner/earned/badge/ada5a006-e191-49bf-986a-3f79ecedc823)
+
+<h2>🥷 Personal Ethical Hacking Development Projects:</h2>
+
+- <b>Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book
+  <br />
+   Chapter 1
+  - [Exploiting a Backdoor in Metasploitable server (Victim Machine)](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%201%20-%20Exploiting%20a%20Backdoor%20in%20Metasploitable.md)
+
+  Chapter 2
+  - [ARP Spoofing Attack](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%202%20-%20ARP%20Spoofing%20Attack.md)
+  - [Detecting an ARP Spoofing Attack](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%202%20-%20Detecting%20an%20ARP%20Spoofing%20Attack.md)
+  
+  Chapter 3
+  - [Viewing Packets in Wireshark](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/edit/main/Network%20Fundamentals/Chpt.%203%20-%20Viewing%20Packets%20in%20Wireshark.md)
+  - [Viewing Packets in TCPDump Collected by the Firewall](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%203.2%20-%20Analyzing%20Packets%20Collected%20by%20Your%20Firewall.md)
+
+- <b> Hands‑On Packet Analysis with Wireshark</b>
+  1) [Getting Started](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/1.%20Getting%20Started.md)
+  2) [Understanding basic HTTP GET/Response Interaction ](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/2.%20Basic%20HTTP%20GET%20Response%20Interaction.md)
+  3) [Conditional GET/Response to check if a Cached File has changed](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/3.%20Conditional%20GET%20Response.md)
+  4) [ Analyzing HTTP GET Requests and TCP Packet Flow](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/4.%20Retrieving%20Long%20Documents.md)
+  5) [How a Browser Loads a Web Page: Analyzing HTTP GET Requests](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/5.%20HTML%20with%20Embedded%20Objects.md)
+  6) [Understanding HTTP 401 Authentication and Basic Authorization](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/6.%20HTTP%20Authentication.md)
+  7) [Analyzing DNS Traffic](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/7.%20DNS%20Lab.md)
+
+<h2>👨‍💻 Personal Splunk Enterprise SIEM Development Projects:</h2>
+
+- <b>Setting up Splunk labs in different cloud instances</b>
+  - [1.1 Install Splunk ES on AWS EC2 Instance (Ubuntu Linux)](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Install%20Splunk%20ES%20in%20AWS%20EC2%20Instance%20(version%201).md)
+  - [1.2 Install a Docker container on an AWS EC2 (Ubuntu Linux) to then install Splunk ES](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.2.%20Installing%20Docker%20in%20AWS%20EC2.md)
+  - [1.3 Install Splunk ES in a Docker container on Windows 10](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.3.%20install%20Splunk%20in%20a%20Docker%20container%20on%20Windows%2010.md)
+  - [1.4 InstaLl Splunk ES on DigitalOcean Droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.4.%20Install%20Splunk%20ES%20on%20DigitalOcean%20Droplet.md)
+  - [1.5. Key Based Authentication for DigitalOcean droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.5.%20Key%20Based%20Authentication%20for%20DigitalOcean%20droplet.md)
+  - [1.6 Install Splunk ES in Windows 10](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.6%20Install%20Splunk%20in%20Windows%2010.md)
+- <b>Configuring Splunk Components</b>
+  - [2.0 Install Splunk Developer License](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Configuring%20Components/2.0%20Install%20Splunk%20Developer%20License.md)
+  - [2.1 License Manager](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Configuring%20Components/2.1%20Configuring%20License%20Manager.md)
+  - [2.2 Monitoring Console](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Configuring%20Components/2.2%20Configuring%20Monitoring%20Console.md)
+  - [2.3 Indexer Cluster](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Configuring%20Components/2.3%20Configure%20Indexer%20Cluster.md)
+  - [2.4 Search Head Cluster](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Configuring%20Components/2.4%20Configure%20Search%20Head%20Cluster.md)
+- <b>Universal Forwarder and Management</b>
+  - [2.5 Forwarders](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Configuring%20Components/2.5%20Configure%20Forwarders.md)
+  - [2.6 Deployment Server](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Configuring%20Components/2.6%20Configure%20a%20Deployment%20Server.md)
+- <b>Connect All Tiers</b>
+  - [3.1 Search Head to Indexer Cluster](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/3.%20Connect%20All%20Tiers/3.1%20Connecting%20Search%20Heads%20to%20Indexer%20Cluster.md)
+  - [3.2 Configure Indexer Discovery across Components](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/3.%20Connect%20All%20Tiers/3.2%20Configuring%20Indexer%20Discovery%20across%20Components.md)
+- <b>Configuring Forwarders</b>
+  - [4.1 In Linux, install Universal Forwarder in Server](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Universal-Heavy%20Forwarder/4.1%20(In%20Linux)%20Install%20Universal%20Forwarder%20in%20Server.md)
+  - [4.2 In Windows, install Universal Forwarder in Server](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Universal-Heavy%20Forwarder/4.2%20(In%20Windows)%20Install%20Universal%20Forwarder.md)
+  - [4.3 In Windows Splunk Web, install Heavy Forwarder](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Universal-Heavy%20Forwarder/4.3%20(In%20Windows)%20Install%20and%20configure%20a%20Heavy%20Forwarder%20using%20Splunk%20Web.md)
+  - [4.4  Heavy Forwarder sending data to another Heavy Forwarder](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Universal-Heavy%20Forwarder/4.4%20Heavy%20Forwarder%20sending%20data%20to%20another%20Heavy%20Forwarder.md)
+  - [4.5 Forwarder & User Management](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Universal-Heavy%20Forwarder/4.5%20Forwarder%20%26%20User%20Management.md)
+- <b>Ingesting / Parsing Data</b>
+  - [5.1 Ingest Data logs](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Data%20Ingestion%20and%20Parsing/5.1%20Ingest%20Data%20logs.md)
+  - [5.2 Importing data via Lookups](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Data%20Ingestion%20and%20Parsing/5.2%20Importing%20data%20via%20Lookups.md)
+  - [5.3 Parsing of Data using Splunk Apps & Add-Ons](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Data%20Ingestion%20and%20Parsing/5.3%20Parsing%20of%20Data%20using%20Splunk%20Apps%20%26%20Add-Ons.md)
+  - [5.4 Parsing of Data using Interactive Field Extractor](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Data%20Ingestion%20and%20Parsing/5.4%20Parsing%20of%20Data%20using%20Interactive%20Field%20Extractor.md)
+- <b>Indexes</b>
+  - [6.1 Creating Indexes via Splunk Web](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20Indexes/6.1%20Creating%20an%20Index.md>)
+- <b>Knowledge Objects</b>
+  - [7.1 Classic Dashboards](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/Dashboard/7.1%20Classic%20Dashboards.md)
+  - [7.2 Splunk Reports](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/7.2%20Splunk%20Reports.md)
+  - [7.3 Event Types](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/7.3%20Event%20Types.md)
+  - [7.4 Data Models](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/7.4%20Data%20Models.md)
+  - [7.5 Alerts](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/7.5%20Alerts.md)
+  - [7.6 Tags](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/7.6%20Tags.md)
+  - [7.7 Colored Event Types](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/7.7%20Colored%20Event%20Types.md)
+- <b>Splunk Architecture</b>
+  - [8.1 Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/8.%20Architecture/8.1%20Splunk%20Architecture.md)
+  - [8.2 Distributed Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/8.%20Architecture/8.2%20Simple%20Test%20Server%20Architecture.md)
+  - [8.3 Distributed Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/8.%20Architecture/8.3%20Distributed%20Splunk%20Architecture.md)
+  - [8.4 Splunk Directory Structure](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/8.%20Architecture/8.4%20%20Splunk%20Directory%20Structure..md)
+- <b>User Access Control and Authentication</b>
+  - [9.1 Access Control](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/9.%20User%20Access%20and%20Authentication/9.1%20Access%20Control.md)
+  - [9.2 Understanding Users & Roles](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/9.%20User%20Access%20and%20Authentication/9.2%20Understanding%20Users%20%26%20Roles.md)
+  - [9.3 Creating Custom Role & Adding Users](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/9.%20User%20Access%20and%20Authentication/9.3%20Create%20a%20Custom%20Role%20%26%20Add%20Users.md)
+- <b>Guides</b>
+  - [10.1 Splunk Architecture and Directory Structure](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/10.%20Guides/10.1%20Splunk%20Architecture%20and%20Directory%20Structure.md)
+
+<h2> :star: Completed Courses</h2>
+
+- <b>Udemy</b>
+  - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b>(10.5 hours)</b>
+  - [The Complete Splunk Enterprise Certified Admin Course](https://eylearning.udemy.com/certificate/UC-0cfde4ab-fa14-4742-bc44-b8492f368281/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com) <b>(4 hours)</b>
+  - [100 Days of Code: The Complete Python Pro Bootcamp](https://eylearning.udemy.com/course/100-days-of-code/learn/lecture/19211072?start=525#overview) <b>(In Progress - 56.5 hours)</b>
+
+- <b>Readings</b>
+  - [Ethical Hacking - A Hands-On Introduction to Breaking In by Daniel G. Graham](https://www.penguinrandomhouse.com/books/690696/ethical-hacking-by-daniel-graham/) <b>(In Progress - Chapter 3/16)</b>
