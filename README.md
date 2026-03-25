@@ -1,4 +1,13 @@
-<h1>Hi, I'm Eliana! <br/><a href="https://github.com/Bubbaloo213">Full-Time Cyber Defense Project Manager / Part-Time Cyber Offense Learner</a> <a href="https://www.linkedin.com/in/elianaalvarez11/"</a></h1>
+# Hi, I'm Eliana 👋  
+
+**Cybersecurity Project Manager Consultant (Splunk SIEM + SOC Enhancements)**  
+**Cybersecurity Student (M.S.) | Ethical Hacking (Authorized Labs) | Wireshark Packet Analysis**
+
+By day, I lead **Splunk SIEM implementation and SOC enhancement** initiatives—helping CLIENTS improve detection coverage, alert quality, triage workflows, and operational maturity.  
+
+By night, I’m a **Master’s student focused on Offensive Security**, building hands-on skills through **ethical, authorized labs** and **packet analysis with Wireshark**.
+
+---
 
 <h2> 🤳 Connect with me:</h2>
 
