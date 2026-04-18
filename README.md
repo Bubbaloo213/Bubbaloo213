@@ -1,6 +1,6 @@
 # Hi, I'm Eliana 👋  
 
-By day, I lead **Splunk SIEM implementation and SOC enhancement** initiatives—helping CLIENTS improve detection coverage, alert quality, triage workflows, and operational maturity.  
+By day, I lead **Splunk SIEM implementation and SOC enhancement** initiatives—helping clients improve detection coverage, alert quality, triage workflows, and operational maturity.  
 
 By night, I’m a **Master’s student focused on Offensive Security**, building hands-on skills through **ethical, authorized labs** and **packet analysis with Wireshark**.
 
