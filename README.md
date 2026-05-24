@@ -4,9 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=1500&height=30&lines=By+day,+I'm+a+Cybersecurity+Consultant+leading+Splunk+SIEM+implementation+and+SOC+enhancement+initiatives.;By+night,+I+am+a+Master’s+student+focused+on+Offensive+Security.;My+why?;Merge+my+passion+for+technology+and+values+to+secure...<3"></a>
 </p>
 <br>
-<h2 align="left">🤳 I'm currently working on:</h2>
+<h2 align="left">🌱 I'm currently, </h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/elianaalvarez11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="20" width="30" /></a>
+- Studying for the SEC504: Hacker Tools, Techniques, and Incident Handling certification: [SANS SEC504](https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling)
+- Building an AI SOC Agent in Copilot Studio that continuously ingests endpoint detections and SIEM telemetry; correlates signals across Splunk, Corwdstrike, and Sentinel platforms; enriches findings with threat intelligence; and determines true vs. false positives. 
+
 </p>
 <br />
 <h2 align="left">🛠️ Skills</h2>
@@ -42,11 +44,16 @@
 
 
 <h2 align="left">Check out my repos ⬇️ </h2>
-<h3>🥷 Personal Ethical Hacking Development Projects:</h3>
+<h3>🥷 General Projects:</h3>
 
-  - [Splunk End-to-End Implementation Project](https://github.com/Bubbaloo213/Splunk-SIEM-Development-Projects/tree/main)
-  - [Network Architecture Diagram](https://github.com/Bubbaloo213/Networking-Fundamentals/tree/main)
-  - [Ethical Hacking Hands-On Lab Work](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main)
-<br />
-        - [Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Ethical%20Hacking%3A%20A%20Hands-on%20Introduction%20to%20Breaking%20In)
-        - [Hands‑On Packet Analysis with Wireshark](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Wireshark%20packet%20sniffer)
+- [Network Architecture Diagram](https://github.com/Bubbaloo213/Networking-Fundamentals/tree/main)
+
+<h3>🥷 Defensive Security Projects:</h3>
+
+- [Splunk End-to-End Implementation Project](https://github.com/Bubbaloo213/Splunk-SIEM-Development-Projects/tree/main)
+
+<h3>🥷 Offensive Security Projects:</h3>
+
+- [Ethical Hacking Hands-On Lab Work](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main)
+   - [Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Ethical%20Hacking%3A%20A%20Hands-on%20Introduction%20to%20Breaking%20In)
+   - [Hands‑On Packet Analysis with Wireshark](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Wireshark%20packet%20sniffer)
