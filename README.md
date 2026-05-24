@@ -17,8 +17,8 @@
   &emsp;
 <a href="#"><img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" width="180"/></a>
 &nbsp;
-<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="110"/></a>&nbsp;
 <a href="#"><img src="https://ecellorscrm.com/wp-content/uploads/2024/04/copilot.png" width="90"/></a>&nbsp;
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="110"/></a>&nbsp;
 </p>
 <br />
 <h2> :page_facing_up: Certifications</h2>
