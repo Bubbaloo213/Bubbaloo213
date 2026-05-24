@@ -6,7 +6,8 @@
 <br>
 <h2 align="left">🌱 I'm currently, </h2>
 <p align="left">
-- Studying for the SEC504: Hacker Tools, Techniques, and Incident Handling certification: [SANS SEC504](https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling)
+  
+- Studying for the **SEC504: Hacker Tools, Techniques, and Incident Handling certification** [SANS SEC504](https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling)
 - Building an AI SOC Agent in Copilot Studio that continuously ingests endpoint detections and SIEM telemetry; correlates signals across Splunk, Corwdstrike, and Sentinel platforms; enriches findings with threat intelligence; and determines true vs. false positives. 
 
 </p>
@@ -14,9 +15,10 @@
 <h2 align="left">🛠️ Skills</h2>
 <p align="left">
   &emsp;
-<a href="#"><img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" width="120"/></a>
+<a href="#"><img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" width="180"/></a>
 &nbsp;
-<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="90"/></a>
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="110"/></a>&nbsp;
+<a href="#"><img src="https://ecellorscrm.com/wp-content/uploads/2024/04/copilot.png" width="90"/></a>&nbsp;
 </p>
 <br />
 <h2> :page_facing_up: Certifications</h2>
