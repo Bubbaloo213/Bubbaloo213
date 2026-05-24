@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Eliana 👋</h3>
+<h2 align="center">Hi, I'm Eliana 👋</h2>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=1500&height=30&lines=By+day,+I'm+a+Cybersecurity+Consultant+leading+Splunk+SIEM+implementation+and+SOC+enhancement+initiatives.;By+night,+I+am+a+Master’s+student+focused+on+Offensive+Security.;My+why?;Merge+my+passion+for+technology+and+values+to+secure...<3"></a>
@@ -46,10 +46,6 @@
 
 
 <h2 align="left">Check out my repos ⬇️ </h2>
-<h3>🥷 General Projects:</h3>
-
-- [Network Architecture Diagram](https://github.com/Bubbaloo213/Networking-Fundamentals/tree/main)
-
 <h3>🥷 Defensive Security Projects:</h3>
 
 - [Splunk End-to-End Implementation Project](https://github.com/Bubbaloo213/Splunk-SIEM-Development-Projects/tree/main)
@@ -59,3 +55,7 @@
 - [Ethical Hacking Hands-On Lab Work](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main)
    - [Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Ethical%20Hacking%3A%20A%20Hands-on%20Introduction%20to%20Breaking%20In)
    - [Hands‑On Packet Analysis with Wireshark](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Wireshark%20packet%20sniffer)
+ 
+<h3>🥷 General Projects:</h3>
+
+- [Network Architecture Diagram](https://github.com/Bubbaloo213/Networking-Fundamentals/tree/main)
