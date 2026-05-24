@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Eliana 👋</h3>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=1500&height=30&lines=By+day,+I'm+a+Cybersecurity+Consultant+leading+Splunk+SIEM+implementation+and+SOC+enhancement+initiatives.;By+night,+I+am+a+Master’s+student+focused+on+Offensive+Security.;My+why+?;+;Merge+my+passion+for+technology+and+values+to+secure...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=1500&height=30&lines=By+day,+I'm+a+Cybersecurity+Consultant+leading+Splunk+SIEM+implementation+and+SOC+enhancement+initiatives.;By+night,+I+am+a+Master’s+student+focused+on+Offensive+Security.;My+why?;Merge+my+passion+for+technology+and+values+to+secure...<3"></a>
 </p>
 <br>
 <h2 align="left">🤳 I'm currently working on:</h2>
