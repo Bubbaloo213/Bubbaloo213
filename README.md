@@ -1,23 +1,47 @@
 <h2 align="center">Hi, I'm Eliana 👋</h2>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=1500&height=30&lines=By+day,+I'm+a+Cybersecurity+Consultant+leading+Splunk+SIEM+implementation+and+SOC+enhancement+initiatives;By+night,+I+am+a+Master’s+student+focused+on+Offensive+Security;My+why+?;+;Merge+my+passion+for+technology+and+values+to+secure...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=1500&height=30&lines=By+day,+I'm+a+Cybersecurity+Consultant+leading+Splunk+SIEM+implementation+and+SOC+enhancement+initiatives.;By+night,+I+am+a+Master’s+student+focused+on+Offensive+Security.;My+why+?;+;Merge+my+passion+for+technology+and+values+to+secure...<3"></a>
 </p>
-
 <br>
-
-<h2 align="left">🤳 Connect with me:</h2>
+<h2 align="left">🤳 I'm currently working on:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/elianaalvarez11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="20" width="30" /></a>
 </p>
-
+<br />
+<h2 align="left">🛠️ Skills</h2>
+<p align="left">
+  &emsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" width="120"/>
+  </a>
+</p>
 <br />
 <h2> :page_facing_up: Certifications</h2>
 
 - [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
 - [Splunk Enterprise Certified Admin](https://www.credly.com/badges/d1f95103-bf78-4b44-a7f0-479fca2acfa4/public_url)
 - [Splunk Accredited Technical Selling Foundations (Partner)](https://www.credly.com/earner/earned/badge/ada5a006-e191-49bf-986a-3f79ecedc823)
+<br />
 
+<h2> :star: Completed Courses</h2>
+
+- <b>Udemy</b>
+  - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b>(10.5 hours)</b>
+  - [The Complete Splunk Enterprise Certified Admin Course](https://eylearning.udemy.com/certificate/UC-0cfde4ab-fa14-4742-bc44-b8492f368281/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com) <b>(4 hours)</b>
+  - [100 Days of Code: The Complete Python Pro Bootcamp](https://eylearning.udemy.com/course/100-days-of-code/learn/lecture/19211072?start=525#overview) <b>(In Progress - 56.5 hours)</b>
+
+- <b>Readings</b>
+  - [Ethical Hacking - A Hands-On Introduction to Breaking In by Daniel G. Graham](https://www.penguinrandomhouse.com/books/690696/ethical-hacking-by-daniel-graham/) <b>(In Progress - Chapter 3/16)</b>
+
+<h2 align="left">🤳 Connect with me on</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/elianaalvarez11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="20" width="30" /></a>
+</p>
+<br />
+
+
+<h2 align="left">Check out my repost ⬇️ </h2>
 <h2>🥷 Personal Ethical Hacking Development Projects:</h2>
 
 - <b>Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book
@@ -95,13 +119,4 @@
   - [9.3 Creating Custom Role & Adding Users](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/9.%20User%20Access%20and%20Authentication/9.3%20Create%20a%20Custom%20Role%20%26%20Add%20Users.md)
 - <b>Guides</b>
   - [10.1 Splunk Architecture and Directory Structure](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/10.%20Guides/10.1%20Splunk%20Architecture%20and%20Directory%20Structure.md)
-
-<h2> :star: Completed Courses</h2>
-
-- <b>Udemy</b>
-  - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b>(10.5 hours)</b>
-  - [The Complete Splunk Enterprise Certified Admin Course](https://eylearning.udemy.com/certificate/UC-0cfde4ab-fa14-4742-bc44-b8492f368281/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com) <b>(4 hours)</b>
-  - [100 Days of Code: The Complete Python Pro Bootcamp](https://eylearning.udemy.com/course/100-days-of-code/learn/lecture/19211072?start=525#overview) <b>(In Progress - 56.5 hours)</b>
-
-- <b>Readings</b>
-  - [Ethical Hacking - A Hands-On Introduction to Breaking In by Daniel G. Graham](https://www.penguinrandomhouse.com/books/690696/ethical-hacking-by-daniel-graham/) <b>(In Progress - Chapter 3/16)</b>
+<br />
