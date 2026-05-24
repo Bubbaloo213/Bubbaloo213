@@ -33,7 +33,7 @@
 
 - <b>Readings</b>
   - [Ethical Hacking - A Hands-On Introduction to Breaking In by Daniel G. Graham](https://www.penguinrandomhouse.com/books/690696/ethical-hacking-by-daniel-graham/) <b>(In Progress - Chapter 3/16)</b>
-
+<br />
 <h2 align="left">🤳 Connect with me on</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/elianaalvarez11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="20" width="30" /></a>
