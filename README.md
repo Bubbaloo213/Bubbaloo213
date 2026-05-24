@@ -1,18 +1,15 @@
-# Hi, I'm Eliana 👋  
+<h2 align="center">Hi, I'm Eliana 👋</h2>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=1500&height=30&lines=By+day,+I'm+a+Cybersecurity+Consultant+leading+Splunk+SIEM+implementation+and+SOC+enhancement+initiatives;By+night,+I+am+a+Master’s+student+focused+on+Offensive+Security;My+why+?;+;Merge+my+passion+for+technology+and+values+to+secure...<3"></a>
+</p>
 
-By day, I lead **Splunk SIEM implementation and SOC enhancement** initiatives—helping clients improve detection coverage, alert quality, triage workflows, and operational maturity.  
+<br>
 
-By night, I’m a **Master’s student focused on Offensive Security**, building hands-on skills through **ethical, authorized labs** and **packet analysis with Wireshark**.
-
-**What's my why?** Merge my passion for technology and values to secure.
-
----
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/elianaalvarez11/
+<h2 align="left">🤳 Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/elianaalvarez11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="20" width="30" /></a>
+</p>
 
 <br />
 <h2> :page_facing_up: Certifications</h2>
