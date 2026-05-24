@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Eliana 👋</h2>
+<h3 align="center">Hi, I'm Eliana 👋</h3>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=1500&height=30&lines=By+day,+I'm+a+Cybersecurity+Consultant+leading+Splunk+SIEM+implementation+and+SOC+enhancement+initiatives.;By+night,+I+am+a+Master’s+student+focused+on+Offensive+Security.;My+why+?;+;Merge+my+passion+for+technology+and+values+to+secure...<3"></a>
@@ -46,28 +46,7 @@
 
   - [Splunk End-to-End Implementation Project](https://github.com/Bubbaloo213/Splunk-SIEM-Development-Projects/tree/main)
   - [Network Architecture Diagram](https://github.com/Bubbaloo213/Networking-Fundamentals/tree/main)
-  - 
-
-
-- <b>Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book
-  <br />
-   Chapter 1
-  - [Exploiting a Backdoor in Metasploitable server (Victim Machine)](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%201%20-%20Exploiting%20a%20Backdoor%20in%20Metasploitable.md)
-
-  Chapter 2
-  - [ARP Spoofing Attack](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%202%20-%20ARP%20Spoofing%20Attack.md)
-  - [Detecting an ARP Spoofing Attack](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%202%20-%20Detecting%20an%20ARP%20Spoofing%20Attack.md)
-  
-  Chapter 3
-  - [Viewing Packets in Wireshark](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/edit/main/Network%20Fundamentals/Chpt.%203%20-%20Viewing%20Packets%20in%20Wireshark.md)
-  - [Viewing Packets in TCPDump Collected by the Firewall](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%203.2%20-%20Analyzing%20Packets%20Collected%20by%20Your%20Firewall.md)
-
-- <b> Hands‑On Packet Analysis with Wireshark</b>
-  1) [Getting Started](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/1.%20Getting%20Started.md)
-  2) [Understanding basic HTTP GET/Response Interaction ](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/2.%20Basic%20HTTP%20GET%20Response%20Interaction.md)
-  3) [Conditional GET/Response to check if a Cached File has changed](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/3.%20Conditional%20GET%20Response.md)
-  4) [ Analyzing HTTP GET Requests and TCP Packet Flow](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/4.%20Retrieving%20Long%20Documents.md)
-  5) [How a Browser Loads a Web Page: Analyzing HTTP GET Requests](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/5.%20HTML%20with%20Embedded%20Objects.md)
-  6) [Understanding HTTP 401 Authentication and Basic Authorization](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/6.%20HTTP%20Authentication.md)
-  7) [Analyzing DNS Traffic](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/7.%20DNS%20Lab.md)
-
+  - [Ethical Hacking Hands-On Lab Work](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main)
+<br />
+        - [Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Ethical%20Hacking%3A%20A%20Hands-on%20Introduction%20to%20Breaking%20In)
+        - [Hands‑On Packet Analysis with Wireshark](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Wireshark%20packet%20sniffer)
