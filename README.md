@@ -12,9 +12,9 @@
 <h2 align="left">🛠️ Skills</h2>
 <p align="left">
   &emsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" width="120"/>
-  </a>
+<a href="#"><img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" width="120"/></a>
+&nbsp;
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="90"/></a>
 </p>
 <br />
 <h2> :page_facing_up: Certifications</h2>
