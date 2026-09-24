@@ -54,7 +54,7 @@
 
 - [Ethical Hacking Hands-On Lab Work](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main)
    - [Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Ethical%20Hacking%3A%20A%20Hands-on%20Introduction%20to%20Breaking%20In)
-   - [Hands‑On Packet Analysis with Wireshark](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Wireshark%20packet%20sniffer)
+   - [Packet Analysis with Wireshark](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Wireshark%20packet%20sniffer)
  
 <h3>🥷 General Projects:</h3>
 
