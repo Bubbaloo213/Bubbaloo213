@@ -6,9 +6,10 @@
 <br>
 <h2 align="left">🌱 I'm currently, </h2>
 <p align="left">
-  
-- Studying for the **SEC504: Hacker Tools, Techniques, and Incident Handling certification** [SANS SEC504](https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling)
-- Building an AI SOC Agent in Copilot Studio that continuously ingests endpoint detections and SIEM telemetry; correlates signals across Splunk, Corwdstrike, and Sentinel platforms; enriches findings with threat intelligence; and determines true vs. false positives. 
+
+- Studying for the **SEC504: Hacker Tools, Techniques, and Incident Handling** certification [SANS SEC504](https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling)
+- Completing my **third semester of the M.S. in Cybersecurity program at NYU**, currently taking **Network Security**.
+- Building an **AI SOC Agent in Copilot Studio** that continuously ingests endpoint detections and SIEM telemetry; correlates signals across Splunk, CrowdStrike, and Sentinel platforms; enriches findings with threat intelligence; and determines true vs. false positives.
 
 </p>
 <br />
