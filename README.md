@@ -58,6 +58,10 @@
 - [Ethical Hacking Hands-On Lab Work](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main)
    - [Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Ethical%20Hacking%3A%20A%20Hands-on%20Introduction%20to%20Breaking%20In)
    - [Packet Analysis with Wireshark](https://github.com/Bubbaloo213/Ethical-Hacking-Hands-On-Lab-Work/tree/main/Wireshark%20packet%20sniffer)
+
+- [Capture the Flag (CTF) Write-Ups](https://github.com/Bubbaloo213/Capture-the-Flag-Write-Ups)
+   - [Women in Cybersecurity (WiCyS) Witch Academy CTF - October 2026](https://github.com/Bubbaloo213/Capture-the-Flag-Write-Ups/blob/main/WiCyS%20Witch%20Academy%20CTF%20-%20October%202026.md)
+ 
  
 <h3>🥷 General Projects:</h3>
 
