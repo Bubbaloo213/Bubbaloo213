@@ -62,7 +62,7 @@
 
 - [Capture the Flag (CTF) Write-Ups](https://github.com/Bubbaloo213/Capture-the-Flag-Write-Ups)
    - [Women in Cybersecurity (WiCyS) Witch Academy CTF - October 2026](https://github.com/Bubbaloo213/Capture-the-Flag-Write-Ups/blob/main/WiCyS%20Witch%20Academy%20CTF%20-%20October%202026.md)
- 
+    - [BSides NYC CTF - October 2026]( https://github.com/Bubbaloo213/Capture-the-Flag-Write-Ups/blob/main/BSides%20CTF%20-%20October%202026.md)
  
 <h3>🥷 General Projects:</h3>
 
